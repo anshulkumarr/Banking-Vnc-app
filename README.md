@@ -256,11 +256,6 @@ Networking
 1) Docker networks
 2) Docker-compose files
 
-Application Developed By
---
-1) **_PAVAN KUMAR DASARI_** &nbsp; &nbsp; &nbsp;  (Back-end & Front-end)
-2) **_ABHISHEK RAJ_**     &nbsp;  &nbsp; &nbsp;  (Networking)
-3) **_PRAVEENA SAGI_**    &nbsp; &nbsp; &nbsp;  (Streaming)
 
 
 
